@@ -1375,13 +1375,13 @@
     "questionId": "UC099",
     "question": "What is the value of tan(210°)?",
     "answers": [
-      "√3",
+      "√3/3",
       "1",
       "-1",
       "-√3"
     ],
-    "correct": "√3",
-    "explanation": "At 210°, tan(210°) = sin(210°) / cos(210°) = (-√3/2) / (-1/2) = √3.",
+    "correct": "√3/3",
+    "explanation": "At 210°, tan(210°) = sin(210°) / cos(210°) = (-1/2) / (-√3/2) = √3/3.",
     "category": "TangentValues",
     "difficulty": "Hard"
   },
@@ -1459,13 +1459,13 @@
     "questionId": "UC105",
     "question": "What is the value of tan(7π/6)?",
     "answers": [
-      "√3",
+      "√3/3",
       "1",
       "-1",
       "-√3"
     ],
-    "correct": "√3",
-    "explanation": "At 7π/6 radians (210°), tan(7π/6) = sin(7π/6) / cos(7π/6) = (-√3/2) / (-1/2) = √3.",
+    "correct": "√3/3",
+    "explanation": "At 7π/6 radians (210°), tan(7π/6) = sin(7π/6) / cos(7π/6) =  (-1/2) / (-√3/2) = (1/√3) = (√3/3).",
     "category": "TangentValues",
     "difficulty": "Hard"
   },
